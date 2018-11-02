@@ -1,0 +1,23 @@
+{
+  "name": "gmstoken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/rahular/GMSToken-contract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://gitlab.com/rahular/GMSToken-contract#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^1.11.0",
+    "truffle": "^4.1.13"
+  }
+}
