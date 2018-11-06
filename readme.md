@@ -1,1 +1,3 @@
-CEU Token smartcontract
+**CEU Token smartcontract**
+
+

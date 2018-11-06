@@ -1,5 +1,5 @@
 {
-  "name": "gmstoken",
+  "name": "CEUToken",
   "version": "1.0.0",
   "description": "",
   "main": "truffle-config.js",
@@ -9,15 +9,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://gitlab.com/rahular/GMSToken-contract.git"
-  },
-  "author": "",
+  "author": "RAHUL AR",
   "license": "ISC",
-  "homepage": "https://gitlab.com/rahular/GMSToken-contract#readme",
   "dependencies": {
-    "openzeppelin-solidity": "^1.11.0",
-    "truffle": "^4.1.13"
+    "truffle": "^4.1.13",
+    "truffle-hdwallet-provider": "0.0.6"
   }
 }

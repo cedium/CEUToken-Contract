@@ -1,7 +1,7 @@
 pragma solidity ^0.4.24;
 
-import "openzeppelin-solidity/contracts/token/ERC20/PausableToken.sol";
-
+import "./openzeppelin-solidity/contracts/token/ERC20/PausableToken.sol";
+import "./openzeppelin-solidity/contracts/token/ERC20/TokenVesting.sol";
 
 
 contract CEUToken is PausableToken{
